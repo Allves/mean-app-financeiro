@@ -1,5 +1,7 @@
-angular.module('app', [
-    'ui.router', 
-    'ngAnimate', 
-    'toastr'
-])
+(function () {
+    angular.module('app', [
+        'ui.router',
+        'ngAnimate',
+        'toastr'
+    ])
+})()
