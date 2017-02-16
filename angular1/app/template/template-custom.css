@@ -1,9 +1,17 @@
-html{
-    background-color:  #ecf0f5;
+html {
+    background-color: #ecf0f5;
 }
 
-.main-footer{
+.main-footer {
     position: fixed;
     bottom: 0px;
     width: 100%;
+}
+
+#toast-container {
+    top: 3.4em;
+}
+
+.table-actions{
+    width: 8.750em;
 }
