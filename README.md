@@ -1,5 +1,7 @@
 # MEAN-APP-FINANCEIRO
 
+######Aplicação criada a partir do curso Mongo, Express, Angular e Node - Primeira Aplicação do ZERO! do professor Leonardo Moura Leitao no site https://www.udemy.com - disponível em https://www.udemy.com/mean-primeira-aplicacao-do-zero/
+
 ### Instalação
 Requisitos:
 
